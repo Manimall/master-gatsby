@@ -4120,6 +4120,11 @@ eslint-config-prettier@^6.11.0:
   dependencies:
     get-stdin "^6.0.0"
 
+eslint-config-sanity@^1.150.8:
+  version "1.150.8"
+  resolved "https://registry.yarnpkg.com/eslint-config-sanity/-/eslint-config-sanity-1.150.8.tgz#f41fd4dec84b2d0d62acc9549c6701694d1b0a8a"
+  integrity sha512-aAy6JB+P2dnGkAvRZTMT0zG73YDoqJTSzZJsGA3dP/LMllEWk4S5hXXvYwgDveGhOB01c0GtDB+3QfeaQk2W6A==
+
 eslint-config-wesbos@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-wesbos/-/eslint-config-wesbos-1.0.0.tgz#24818064fd50df0ef1d36831d5b7e71775781c66"
